@@ -1,5 +1,8 @@
 # Conversational-Memory-in-LLMS
 
+![1_JZv-dQ_2nr96t-ygsPFZHw](https://github.com/saahil1801/Conversational-Memory-in-LLMS/assets/84408557/e9c40195-a912-4b53-842f-ccae905dc92e)
+
+
 This repository explores the concept of conversational memory within Language Models (LLMs). Conversational memory refers to the ability of a model to retain and utilize information from previous interactions during a conversation.
 
 In this research, we use LangChain and OpenAI's GPT-3 model as a case study to demonstrate different conversational memory techniques. The primary focus is on understanding how various memory strategies can enhance the conversational capabilities of language models.
