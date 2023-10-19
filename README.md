@@ -43,11 +43,7 @@ You can analyze the conversation memory length for each memory type using Tiktok
 import tiktoken
 
 tokenizer = tiktoken.encoding_for_model('text-davinci-003')
-print(
-    f'Buffer memory conversation length: {len(tokenizer.encode(conversation_buf.memory.buffer))}\n'
-    f'Summary memory conversation length: {len(tokenizer.encode(conversation_sum.memory.buffer))}\n'
-    f'Buffer window memory conversation length: {len(tokenizer.encode(bufw_history))}\n'
-     )
+
 
 ## Conclusion
 
