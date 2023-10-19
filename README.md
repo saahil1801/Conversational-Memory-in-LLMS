@@ -55,9 +55,11 @@ This research demonstrates the importance of conversational memory techniques in
 
 ## Credits
 
-### LangChain
-### OpenAI
-### Tiktoken
+#### LangChain
+
+#### OpenAI
+
+#### Tiktoken
 
 ## Contact
 
