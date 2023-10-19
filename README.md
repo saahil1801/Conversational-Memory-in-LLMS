@@ -65,7 +65,7 @@ This research demonstrates the importance of conversational memory techniques in
 
 If you have any questions or suggestions, please feel free to contact us via email or open an issue on this repository.
 
-### Enjoy your research on conversational memory in LLMS!
+### Enjoy this research on conversational memory in LLMS!
 
 
 
